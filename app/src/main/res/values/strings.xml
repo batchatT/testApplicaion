@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TestApplication</string>
+    <string name="edit_text_hint">Input full GitHub username</string>
+    <string name="show_repos">SHOW REPOS</string>
 </resources>
